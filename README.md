@@ -16,4 +16,7 @@ In this project, only the backend of the system is going to be implemented, alth
 
 1) First, install Java on your system.
 2) Install the latest maven dependency manager.
+3) Install mysql.
+4) Update all spring boot configurations inside resources folder in 
+    /src/main/resources/application.properties file according to your own system configurations.
 3) mvn spring-boot:run
